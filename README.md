@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep learning and especially in transfer learning
 - 🌱 I’m currently learning audio signal processing
 - 💞️ I’m looking to collaborate on deep learning on audio signals
-- 📫  reach me: fawadDOTnasimAThotmailDOTcom
+- 📫  reach me: princebadshahATgmailDOTcom
 
 <!---
 princebadshah/princebadshah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
