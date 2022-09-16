@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @princebadshah
+- 👋 Hi, I’m @Fawad Nasim
 - 👀 I’m interested in Deep learning and especially in transfer learning
 - 🌱 I’m currently learning audio signal processing
 - 💞️ I’m looking to collaborate on deep learning on audio signals
-- 📫  reach me: princebadshahATgmailDOTcom
+- 📫  reach me: fawad_nasimpkATyahooDOTcom
 
 <!---
 princebadshah/princebadshah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
